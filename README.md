@@ -68,7 +68,7 @@ export class AppComponent {
 app.component.css
 ~~~
 .container{
-    background-color: #343409;
+    background-color: #bf5cdd;
     text-align: center;
     height: 720pxx;
 }
